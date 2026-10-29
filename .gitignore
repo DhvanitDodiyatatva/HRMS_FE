@@ -44,3 +44,9 @@ next-env.d.ts
 
 # Storybook
 storybook-static/
+
+# Docs (internal — not pushed to repo)
+docs/
+
+docs/**
+
